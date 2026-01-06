@@ -48,7 +48,7 @@ nav a:hover { color: #27ae60; }
     height: 90vh;
 
     /* Background Image */
-     background: url('/Image/main\ cover\ ph.jpeg') no-repeat center center;
+     background: url("Image/main\ cover\ ph.jpeg") no-repeat center center;
       background-size: cover;
     position: relative;
     display: flex;
